@@ -3,4 +3,4 @@ hugo
 
 
 usa
-master
+store locator
